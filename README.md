@@ -33,6 +33,9 @@ Golang developer @Udevs team in Uzbekistan.
 
 - Utilized Agile Methodologies to manage full life-cycle development of the project and involved in business requirement phase which involved direct interaction with clients.
 
+- Experienced in frontend development using Vue js framework in 4 monthes.
+
+
 **Micheal's Harborside in USA,  May, 2019 – September, 2019 <br>  Server**  
 
 **McDonalds  in USA,  May, 2019 – September, 2019 <br>  Cook**  
